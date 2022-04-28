@@ -2,6 +2,8 @@
 
 Train your reflexes with this game!
 
+train-your-reflexes.vercel.app
+
 ## Project Setup
 
 ```sh
