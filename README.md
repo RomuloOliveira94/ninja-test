@@ -2,6 +2,9 @@
 
 Train your reflexes with this game!
 
+## Acess here! 🖥️
+http://train-your-reflexes.vercel.app/
+
 ## Project Setup
 
 ```sh
