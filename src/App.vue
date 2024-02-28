@@ -2,7 +2,7 @@
   <header class="header">
     <nav class="container">
       <div>
-        <img src="logo-ninja.png" alt="logo ninjinha" width="100" />
+        <img src="/logo-ninja.png" alt="logo ninjinha" width="100" />
       </div>
       <div>
         <h1 class="text-header">Você é um ninja?</h1>

@@ -1,6 +1,6 @@
 <template>
   <div class="block" v-if="showBlock" @click="stopTimer">
-    <img src="shuriken.svg" alt="shuriken">
+    <img src="/shuriken.svg" alt="shuriken">
     Clica!
   </div>
 </template>
