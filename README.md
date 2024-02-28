@@ -1,6 +1,6 @@
-# reaction-timer
+# TESTE NINJA
 
-Train your reflexes with this game!
+TREINE SEUS REFLEXOS NINJA COM ESSE JOGO!
 
 ## Acess here! 🖥️
 http://train-your-reflexes.vercel.app/
