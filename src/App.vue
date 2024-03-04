@@ -47,20 +47,6 @@
       </p>
     </div>
   </section>
-  <script type="text/javascript">
-    atOptions = {
-      key: "0ae36f1e7818879d099453c837cc0bcd",
-      format: "iframe",
-      height: 300,
-      width: 160,
-      params: {},
-    };
-    document.write(
-      "<scr" +
-        'ipt type="text/javascript" src="//www.topcreativeformat.com/0ae36f1e7818879d099453c837cc0bcd/invoke.js"></scr' +
-        "ipt>"
-    );
-  </script>
   <section class="container">
     <h3>Ainda existem ninjas?</h3>
     <div class="text-section">
@@ -76,20 +62,6 @@
       </p>
     </div>
   </section>
-  <script type="text/javascript">
-    atOptions = {
-      key: "0ae36f1e7818879d099453c837cc0bcd",
-      format: "iframe",
-      height: 300,
-      width: 160,
-      params: {},
-    };
-    document.write(
-      "<scr" +
-        'ipt type="text/javascript" src="//www.topcreativeformat.com/0ae36f1e7818879d099453c837cc0bcd/invoke.js"></scr' +
-        "ipt>"
-    );
-  </script>
 </template>
 
 <script>
