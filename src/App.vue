@@ -34,34 +34,6 @@
       <Block v-if="isPlaying" :delay="delay" @end="endGame" @click.stop />
     </div>
   </main>
-  <section class="container">
-    <h3>Quem foram os ninjas?</h3>
-    <div class="text-section">
-      <div class="image-ninja"></div>
-      <p>
-        Os ninjas eram guerreiros japoneses especializados em táticas furtivas,
-        espionagem e sabotagem durante o período feudal. Seus reflexos eram
-        treinados através de exercícios de agilidade, percepção e reações
-        rápidas para se movimentarem rapidamente e evitarem serem detectados ou
-        atacados.
-      </p>
-    </div>
-  </section>
-  <section class="container">
-    <h3>Ainda existem ninjas?</h3>
-    <div class="text-section">
-      <div class="image-ninja-atual"></div>
-      <p>
-        Atualmente, o termo "ninja" é frequentemente usado para descrever
-        praticantes modernos de artes marciais ou indivíduos habilidosos em
-        técnicas de stealth e habilidades de combate. No entanto, não existe uma
-        organização ou grupo específico que corresponda diretamente aos ninjas
-        históricos do Japão feudal. Em vez disso, várias pessoas em diferentes
-        contextos podem se autodenominar "ninjas" por razões culturais,
-        esportivas ou de entretenimento.
-      </p>
-    </div>
-  </section>
 </template>
 
 <script>
